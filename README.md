@@ -1,7 +1,7 @@
 # I'm In App: find and create group activities
 Design, mockupping and prototyping of a mobile application to find and participate or create group activities, made as final assignment for the Human Computer Interaction course at Università degli Studi di Firenze by [Federico Tammaro](https://github.com/Sfullez) and [Tommaso Barletti](https://github.com/tbarle).
 **This is only a prototype and not completely functional**: no backend and side functionalities have been implemented and the application has an initial local state restored every time the application is started.
-Full project report (in Italian) can be found here.
+Full project report (in Italian) can be found [here](https://github.com/Sfullez/im-in/blob/master/Project_Report.pdf).
 
 ## Techonologies used
 
@@ -38,7 +38,6 @@ or deployed on the smartphone (after having configured Cordova) using
     cordova run [platform] --device
 
 ## Screenshots
-![Map to display activities](https://i.ibb.co/2YDmR0f/App-Mappa.png =250x)![Map filters to filter activities](https://i.ibb.co/0Bxd1ZN/App-Filtri.png =250x)![List to display activities](https://i.ibb.co/n0sVrVN/App-Lista.png =250x)
-![Activity creation page](https://i.ibb.co/L9pwDN6/App-Crea.png =250x)![User profile](https://i.ibb.co/nrjdT7Z/App-Profilo.png =250x)![Activity details](https://i.ibb.co/tPgZQh3/App-Dettagli.png =250x)
-![Activity chats](https://i.ibb.co/0JQ635X/App-Chat.png =250x)![Chat conversation](https://i.ibb.co/b2g8nHk/App-Conversazione.png =250x)
-
+<img src="https://i.ibb.co/2YDmR0f/App-Mappa.png" width="250"> <img src="https://i.ibb.co/0Bxd1ZN/App-Filtri.png" width="250"> <img src="https://i.ibb.co/n0sVrVN/App-Lista.png" width="250">
+<img src="https://i.ibb.co/L9pwDN6/App-Crea.png" width="250"> <img src="https://i.ibb.co/nrjdT7Z/App-Profilo.png" width="250"> <img src="https://i.ibb.co/nrjdT7Z/App-Dettagli.png" width="250">
+<img src="https://i.ibb.co/nrjdT7Z/App-Chat.png" width="250"> <img src="https://i.ibb.co/nrjdT7Z/App-Conversazione.png" width="250">
